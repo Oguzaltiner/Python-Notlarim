@@ -1,0 +1,2 @@
+# Python-Notlarim
+Calismalar
